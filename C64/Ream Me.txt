@@ -1,0 +1,27 @@
+welcome...
+how can you move?..
+///////////////
+the keys is
+VK_UP to go forward && steps sound
+VK_Dawn to go backword && steps sound
+VK_left to go left && steps sound
+VK_right to go right && steps sound
+"w" to look up
+"s" to look down
+"A" to look left
+"D" to look right
+"O" to fly up
+"L"  to fly down
+"z" rotate camera left
+"x" rotate camera right
+"N" day mode and adhan sound
+"B" night mode and adhan sound
+"H" stop adhan sound 
+"T" birds sound 
+"J"Stop birds sound 
+"Y" just adhan sound
+//////
+if you want to see models uncomment DrawAlltrees in Drawglscenc() 
+and make speed of the keys func >=20
+............
+enjoy..
